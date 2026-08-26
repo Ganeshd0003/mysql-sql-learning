@@ -28,5 +28,3 @@ The goal of this repository is to practice SQL, keep track of what I've learned,
 I started learning SQL through the **CodeWithHarry** YouTube channel. I created this repository to organize and document my SQL practice and learning journey.
 
 ---
-
-**Learning SQL one query at a time.**
